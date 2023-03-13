@@ -86,7 +86,6 @@ const Experience = () => {
                 <p className='py-6'>These are the technologies i have worked with</p>
             </div>
             <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
-
                 {
                     experiences.map(({id, src, style, title}) => (
 
@@ -102,6 +101,7 @@ const Experience = () => {
     </div>
   )
 }
+
 
 
 export default Experience
