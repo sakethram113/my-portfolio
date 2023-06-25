@@ -11,12 +11,13 @@ const About = () => {
             </div>
 
             <p className="text-xl mt-20 ">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore delectus, dignissimos odit porro sit consequuntur quibusdam neque officia inventore ut culpa commodi tempora provident adipisci natus fuga atque! Quisquam vel error placeat rem dolor, suscipit eligendi aperiam quidem ea necessitatibus commodi dolorum rerum nesciunt nisi! Laborum laudantium exercitationem eum odit.
+            Welcome to my portfolio! I'm Saketh Ram, a passionate and dedicated full stack developer with a knack for building robust and innovative web applications. With a strong foundation in both front-end and back-end development, I strive to create seamless user experiences that blend functionality, aesthetics, and performance. My passion for problem-solving and attention to detail drive me to deliver high-quality code that not only meets but exceeds client expectations. I am experienced in working collaboratively as part of a team, but I also thrive when working independently, taking ownership of projects from concept to deployment.
             </p>
             <br />
 
             <p className="text-xl">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur fugiat distinctio quae ea aliquid repudiandae iusto corrupti! Molestias, sint odio? Saepe id, rem debitis et itaque similique odio, modi eum corporis, est voluptas? Repudiandae nostrum qui molestias facilis explicabo velit libero accusamus nihil sed quod dicta voluptas ad, obcaecati aliquam.
+            Continual learning is a crucial aspect of my professional growth, and I am always eager to explore emerging technologies and frameworks that can enhance my development capabilities. I stay up to date with the latest trends and industry best practices to ensure that the solutions I provide are efficient, secure, and scalable.
+            Thank you for visiting my portfolio website. Feel free to explore my projects and don't hesitate to reach out if you have any questions or potential collaboration opportunities. I look forward to working together to bring your ideas to life!
             </p>
 
         </div>

@@ -15,7 +15,7 @@ const Home = () => {
                     I'm a Full-Stack Developer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni eum exercitationem cumque. Error, quis accusantium in reiciendis quos laudantium commodi recusandae sunt quasi! Perferendis, officiis.
+                As you browse through my portfolio, you'll find a collection of projects that showcase my skills and demonstrate my commitment to delivering high-quality results. Each project represents a unique challenge that I tackled with passion and precision, pushing boundaries and embracing innovative solutions.
                 </p>
             <div>
                 <Link to='portfolio' smooth duration={500} className="group text-white px-6 py-3 flex my-2 w-fit items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
