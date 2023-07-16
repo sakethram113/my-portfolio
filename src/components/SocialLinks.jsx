@@ -13,7 +13,7 @@ const Sociallinks = () => {
                 LinkedIn<FaLinkedin size={30}/>
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://www.linkedin.com/in/saketh-ram-podicheti-113423247/',
             style: 'rounded-tr-md'
         },
         {
@@ -32,7 +32,7 @@ const Sociallinks = () => {
                 Resume<BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: './Resume 2.0.pdf',
+            href: '/Resume 2.0.pdf',
             download:true,
             style:'rounded-br-md'
         }
