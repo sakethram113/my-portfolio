@@ -12,7 +12,7 @@ const Home = () => {
         md:flex-row">
             <div className="flex flex-col justify-center h-full">
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">
-                    I'm a Full-Stack Developer
+                    Tranforming Ideas Into <p className='text-red-700'>Digital Reality</p>
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
                 As you browse through my portfolio, you'll find a collection of projects that showcase my skills and demonstrate my commitment to delivering high-quality results. Each project represents a unique challenge that I tackled with passion and precision, pushing boundaries and embracing innovative solutions.

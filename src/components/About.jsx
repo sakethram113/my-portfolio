@@ -10,7 +10,7 @@ const About = () => {
                 </p>
             </div>
 
-            <p className="text-xl mt-10 ">
+            <p className="text-xl">
             Welcome to my portfolio! I'm Saketh Ram, a passionate and dedicated full stack developer with a knack for building robust and innovative web applications. With a strong foundation in both front-end and back-end development, I strive to create seamless user experiences that blend functionality, aesthetics, and performance. My passion for problem-solving and attention to detail drive me to deliver high-quality code that not only meets but exceeds client expectations. I am experienced in working collaboratively as part of a team, but I also thrive when working independently, taking ownership of projects from concept to deployment.
             </p>
             <br />
