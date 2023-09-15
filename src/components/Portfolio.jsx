@@ -35,9 +35,7 @@ const Portfolio = () => {
       src: MovieTicketBooking,
       repoUrl: "https://github.com/sakethram113/Movie-ticket-booking"
 
-    },
-     
-   
+    },   
 ]
   return (
     <div name='portfolio' className='bg-gradient-to-b from-black to-gray-800 w-full text-white md: h-fit'>
